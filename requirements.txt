@@ -5,3 +5,4 @@ bertopic
 scikit-learn
 transformers
 torch
+streamlit

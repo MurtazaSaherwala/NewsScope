@@ -1,4 +1,4 @@
-#!/Users/apple/Documents/Courses-Projects/Hackathon/NewsScope/newsscope/bin/python3.12
+#!/Users/apple/Documents/GitHub/NewsScope/newsscope/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

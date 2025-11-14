@@ -19,8 +19,10 @@ def run_demos():
         "Tech company 'Innovate Inc.' saw its shares plummet after a poor earnings report."
     ]
 
+    # This loop is now correct:
     for article in unseen_articles:
         analysis = analyzer.analyze_article(article)
+    
         print(f"\nARTICLE: \"{article[:50]}...\"")
         print(f"  -> ANALYSIS: {analysis}")
 

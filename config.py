@@ -1,5 +1,5 @@
 # File paths
-RAW_DATA_PATH = "/Users/apple/Documents/Courses-Projects/Hackathon/NewsScope/Copy_of_NewsScope.xlsx"
+RAW_DATA_PATH = "/Users/apple/Documents/Github/NewsScope/Copy_of_NewsScope.xlsx"
 PROCESSED_DATA_PATH = "data/processed_news_with_topics.csv"
 
 # Saved model paths
